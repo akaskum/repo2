@@ -1,0 +1,10 @@
+ Volume in drive D is New Volume
+ Volume Serial Number is AA5B-E325
+
+ Directory of D:\MyProject
+
+05-05-2022  22:53    <DIR>          .
+05-05-2022  22:53    <DIR>          ..
+05-05-2022  22:53                 0 akash.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  318,662,139,904 bytes free
